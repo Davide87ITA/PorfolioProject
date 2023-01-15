@@ -12,4 +12,7 @@ Data are from Economic Modeling Specialists Inc (EMSI) https://public.tableau.co
 
 * Excel for cleaining data
 * Sql for analyzing
-* Tableau for visualization<b>
+* Tableau for visualization
+
+<b>Link to Tableau visualization:</b>
+https://public.tableau.com/app/profile/davide/viz/jobchangesinlondon2011-2014/Dashboard1?publish=yes
