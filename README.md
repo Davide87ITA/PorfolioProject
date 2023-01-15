@@ -8,7 +8,7 @@ Data are from Economic Modeling Specialists Inc (EMSI) https://public.tableau.co
 <b>Project Purpose:</b>
 * Showing the top 10 industries's increases and decreases of jobs comparing 2014 to 2011 in London
 
-<b>Tools used:<b>
+<b>Tools used:</b>
 
 * Excel for cleaining data
 * Sql for analyzing
