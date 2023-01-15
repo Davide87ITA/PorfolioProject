@@ -10,6 +10,6 @@ Project Purpose:
 
 Tools used
 
-* Excel for cleaining data
+<b>* Excel for cleaining data
 * sql for analyzing
-* tableau for visualization
+* tableau for visualization<b>
