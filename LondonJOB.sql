@@ -18,4 +18,12 @@ select industry, jobs_2011, jobs_2014, change, (change/Jobs_2011)*100 as 'percen
 FROM [jobEng].[dbo].[JobUK]
 where City = 'London' and Jobs_2011 != 0 
 group by change, industry, city, jobs_2011, jobs_2014
-order by change desc
+order by change
+
+-- negative percentage--
+
+select industry, jobs_2011, jobs_2014, change, (change/Jobs_2011)*100 as 'percentage'
+FROM [jobEng].[dbo].[JobUK]
+where City = 'London' and Jobs_2011 != 0 
+group by change, industry, city, jobs_2011, jobs_2014
+order by change asc
