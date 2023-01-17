@@ -17,5 +17,9 @@ Data are from Economic Modeling Specialists Inc (EMSI) https://public.tableau.co
 <b>Link to Tableau visualization:</b>
 https://public.tableau.com/app/profile/davide/viz/jobchangesinlondon2011-2014/Dashboard1?publish=yes
 
-The top 10 most revelant industries ( in positive and negative) are selected not from the percentage of numbers of jobs, because it would lead to not statistically relevant ones (Manufacture of tobacco products	1	29	28	2800,0%
-![image](https://user-images.githubusercontent.com/122736927/212934533-41e8b565-80d4-4449-b0bb-5ec20a3d80cc.png)
+The top 10 most revelant industries ( in positive and negative) are selected not from the percentage of numbers of jobs, because it would lead to not statistically relevant ones, for example
+
+![image](https://user-images.githubusercontent.com/122736927/212935411-fc9d59ab-0360-43bd-bdc7-569dcbcd3127.png)
+
+but rather to the highest amount of absolute number of more (or less) jobs in that sector
+
